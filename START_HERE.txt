@@ -1,0 +1,32 @@
+FAMILY FIRST MARKETING LLC - WEBSITE FILES
+
+This is the original orange, ivory, and green coming-soon website built in this chat.
+The separate sample #1 redesign has not been built because its reference image has not been identified.
+
+PREVIEW ON YOUR COMPUTER
+1. Extract the ZIP completely.
+2. Open index.html in your browser.
+3. Keep styles.css, script.js, and assets beside index.html.
+
+CONTENTS
+- index.html: website content and page structure
+- styles.css: desktop and mobile styling
+- script.js: service tabs, mobile navigation, email-copy helper, privacy dialog
+- assets/: original brand artwork and local fonts
+- FONT-LICENSE.txt: font license
+- reference/: original build notes and original hosting instructions
+
+GITHUB PAGES
+The website files are a static site and do not require a build step.
+Upload index.html, styles.css, script.js, and assets/ together to the chosen publishing folder.
+GitHub repository, Pages publishing, and custom-domain DNS setup still need to be completed.
+The current page metadata still uses the original private ChatGPT Site URL; update it to the verified public domain when launching.
+
+IMPORTANT ABOUT DOMAIN INSTRUCTIONS
+reference/ORIGINAL_CHATGPT_HOSTING_DOMAIN_SETUP.md contains DNS records for the original ChatGPT-hosted version ONLY.
+Those are NOT GitHub Pages DNS records. Do not use them to connect GitHub Pages.
+No CNAME or hosting configuration is included in the website root.
+
+CONTACT ON THE WEBSITE
+Owner@FamilyfirstMarketingLLC.com
+(845) 747-0764
